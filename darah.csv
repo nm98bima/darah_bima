@@ -1,4 +1,4 @@
-No urut,Nama donor,Alamat Rumah,Pekerjaan,Tanggal lahir,,,umur,Donor ke,Jenis kelamin,HB,Golongan darah,Rhesus,Tekanan darah Sistole,Tekanan darah Diastole,Nadi,Keadaan umum,no kantong
+No urut,Nama donor,Alamat Rumah,Pekerjaan,Tanggal lahir,bulan,tahun,umur,Donor ke,Jenis kelamin,HB,Golongan darah,Rhesus,Tekanan darah Sistole,Tekanan darah Diastole,Nadi,Keadaan umum,no kantong
 1,Vini Safitri,jatiwangi,Mahasiswa/ pelajar,18,10,1998,21,2,pr,">12,5 gr% Tenggelam",O,positif,100,70,90,sehat,C81U8748
 2,Putri Anjani,Lewirato,Mahasiswa/ pelajar,27,7,2001,18,0,Pr,">12,5 gr% Tenggelam",O,Positif,120,80,87,sehat,C81V7739
 3,Fatmawati,Dara,Mahasiswa/ pelajar,2,2,2002,17,1,Pr,">12,5 gr% Tenggelam",O,Positif,120,80,96,sehat,C81V1933
@@ -212,7 +212,7 @@ No urut,Nama donor,Alamat Rumah,Pekerjaan,Tanggal lahir,,,umur,Donor ke,Jenis ke
 211,Rahmatullah,Runggu,lain lain,7,12,2000,19,1,lk,">12,5 gr% Tenggelam",A,Positif,110,70,76,sehat,C81U9275
 212,Rahmatullah,Runggu,lain lain,7,12,2000,19,1,lk,">12,5 gr% Tenggelam",A,Positif,110,70,76,sehat,C81U9275
 213,Nasarrudin,panda,lain lain,18,12,1989,30,2,lk,">12,5 gr% Tenggelam",O,Positif,110,70,68,sehat,C81U8598
-214,M. Salahudin,Jl. Datuk Dibanta No.8 PANE,lain lain,5,9,1979,40,0,Lk,">12,5 gr% Tenggelam",AB,Positif,110,60,78,sehat,08107740
+214,M. Salahudin,Jl. Datuk Dibanta No.8 PANE,lain lain,5,9,1979,40,0,Lk,">12,5 gr% Tenggelam",AB,Positif,110,60,78,sehat,8107740
 215,Fitratunnisa,jatiwangi,lain lain,30,10,1994,25,0,pr,">12,5 gr% Tenggelam",B,,120,80,86,sehat,C65Y5396
 216,Eki,pane,lain lain,25,5,1981,38,4,lk,">12,5 gr% Tenggelam",O,Positif,110,70,88,sehat,C65Y5052
 217,Fauziah,gindi jatiwangi,lain lain,26,4,1993,26,0,pr,">12,5 gr% Tenggelam",AB,Positif,100,60,60,sehat,C81U7577
