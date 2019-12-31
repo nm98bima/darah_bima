@@ -2,7 +2,7 @@ No urut,Nama donor,Alamat Rumah,Pekerjaan,Tanggal lahir,bulan,tahun,Donor ke,Jen
 190,Abd Haris,Jl. Soekarno Hatta rt 6 rw 3 Rabangodu utara,lain lain,3,4,1976,6,lk,">12,5 gr% Tenggelam",A,positif,120,80,70,sehat,C81V2144
 50,Abdul Halik,lido,Mahasiswa/ pelajar,20,4,1996,0,lk,">12,5 gr% Tenggelam",O,Positif,120,80,82,sehat,C81V5773
 120,Abdul Manafi,Tente,wiraswasta,2,2,1990,0,Lk,">12,5 gr% Tenggelam",O,Positif,130,90,72,sehat,C81V1646
-227,Ade Haryani Jumrah,Tolotando,lain lain,16,3,2000,0,pr,,A,Positif,120,80,68,sehat,C81U5877
+227,Ade Haryani Jumrah,Tolotando,lain lain,16,3,2000,0,pr,">12,5 gr% Tenggelam",A,Positif,120,80,68,sehat,C81U5877
 36,Adnanin,Sangga Lambu,mahasiswa/ pelajar,8,4,1995,4,lk,">12,5 gr% Tenggelam",AB,Positif,120,80,86,sehat,C81U7419
 20,Afina Nirwana Putri,KP Sigi,Mahasiswa/ pelajar,25,3,2000,4,pr,">12,5 gr% Tenggelam",A,Positif,120,80,87,sehat,C81U6959
 84,Agus Darmanto,KP. Sarae,wiraswasta,20,12,1968,12,lk,">12,5 gr% Tenggelam",O,Positif,130,80,80,sehat,C81V7668
@@ -214,7 +214,7 @@ No urut,Nama donor,Alamat Rumah,Pekerjaan,Tanggal lahir,bulan,tahun,Donor ke,Jen
 172,Syahrul,Asrama kodim,TNI/ Polri,26,11,1993,3,lk,">12,5 gr% Tenggelam",B,Positif,120,80,82,sehat,C81V1678
 224,Syahrul ramadhan,jatiwangi,lain lain,25,3,1992,0,lk,">12,5 gr% Tenggelam",O,Positif,120,60,78,sehat,C81U5608
 103,Syaifuddin Anshari,Jln. Sultan Kaharuddin no.2 rt 15 rw 5,wiraswasta,7,2,1981,2,lk,">12,5 gr% Tenggelam",O,Positif,130,80,76,sehat,C81U8101
-191,Syaiful Islam,sadia 1,lain lain,4,12,1999,1,lk,">12,5 gr% Tenggelam",,negatif,120,80,90,sehat,C81V2654
+191,Syaiful Islam,sadia 1,lain lain,4,12,1999,1,lk,">12,5 gr% Tenggelam",O,negatif,120,80,90,sehat,C81V2654
 69,Syamsudin,soki belo,mahasiswa/ pelajar,11,12,1998,>5,lk,">12,5 gr% Tenggelam",B,positif,110,70,87,sehat,C81U8251
 98,Syamsudin,Leta Jati Baru,wiraswasta,12,12,1979,3,lk,">12,5 gr% Tenggelam",B,Positif,,,74,sehat,C81U7017
 162,Syamsurizal,Jl. Patimura 17 Kel. Pane Kota Bima,pegawai negeri/ swasta,23,12,1969,3,Lk,">12,5 gr% Tenggelam",A,Positif,130,80,68,sehat,C81U8970
@@ -246,3 +246,4 @@ No urut,Nama donor,Alamat Rumah,Pekerjaan,Tanggal lahir,bulan,tahun,Donor ke,Jen
 17,Yuyun Sri Hartati,R. Ngodu utara,Mahasiswa/ pelajar,10,5,1999,2,pr,">12,5 gr% Tenggelam",O,Positif,120,80,92,sehat,C81U6939
 37,Zikirman,gindi jatiwangi,mahasiswa/ pelajar,14,2,1998,0,lk,">12,5 gr% Tenggelam",A,positif,110,70,96,sehat,C81U7671
 66,Zulfikar Maulana,Pena Raga,Mahasiswa/ pelajar,9,12,1998,2,Lk,">12,5 gr% Tenggelam",O,Positif,110,,86,sehat,C81U8458
+,,,,,,,,,,,,120.3669725,76.95652174,,,
